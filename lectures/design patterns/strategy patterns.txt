@@ -1,0 +1,16 @@
+INERITANCE:
+VIRTUAL AND OVERRIDE METHODS:
+	- virtual is put on a method in the base class.
+	- override lets the child class modify the inherited method. 
+STRATEGY PATTERENS:
+provides more flexibility
+a. create an interface:
+b. add interface to parent class as a variable.  
+b. turn methods into classes
+c. connect method classes to interface/s
+	- methods become objects. 
+d. add
+
+
+Move strategy variables to the top of abstract class
+add properties to variables (maybe not private but protected)

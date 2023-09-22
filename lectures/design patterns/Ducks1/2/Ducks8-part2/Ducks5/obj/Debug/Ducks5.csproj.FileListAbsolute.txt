@@ -1,0 +1,27 @@
+C:\Users\Bruger\Documents\Programmering\2 semester 2015\Emner\Pattern\20150310\Ducks5\Ducks5\bin\Debug\Ducks5.exe.config
+C:\Users\Bruger\Documents\Programmering\2 semester 2015\Emner\Pattern\20150310\Ducks5\Ducks5\bin\Debug\Ducks5.exe
+C:\Users\Bruger\Documents\Programmering\2 semester 2015\Emner\Pattern\20150310\Ducks5\Ducks5\bin\Debug\Ducks5.pdb
+C:\Users\Bruger\Documents\Programmering\2 semester 2015\Emner\Pattern\20150310\Ducks5\Ducks5\obj\Debug\Ducks5.exe
+C:\Users\Bruger\Documents\Programmering\2 semester 2015\Emner\Pattern\20150310\Ducks5\Ducks5\obj\Debug\Ducks5.pdb
+C:\Users\Bruger\Documents\Programmering\2 semester 2015\Emner\Pattern\20150310\Ducks5\Ducks5\obj\Debug\Ducks5.csprojResolveAssemblyReference.cache
+C:\Users\ot\Documents\IBA\20230919\Ducks5\Ducks5\bin\Debug\Ducks5.exe.config
+C:\Users\ot\Documents\IBA\20230919\Ducks5\Ducks5\bin\Debug\Ducks5.exe
+C:\Users\ot\Documents\IBA\20230919\Ducks5\Ducks5\bin\Debug\Ducks5.pdb
+C:\Users\ot\Documents\IBA\20230919\Ducks5\Ducks5\obj\Debug\Ducks5.csproj.AssemblyReference.cache
+C:\Users\ot\Documents\IBA\20230919\Ducks5\Ducks5\obj\Debug\Ducks5.csproj.CoreCompileInputs.cache
+C:\Users\ot\Documents\IBA\20230919\Ducks5\Ducks5\obj\Debug\Ducks5.exe
+C:\Users\ot\Documents\IBA\20230919\Ducks5\Ducks5\obj\Debug\Ducks5.pdb
+C:\Users\ot\Documents\IBA\20230919\Ducks8-part2\Ducks5\bin\Debug\Ducks5.exe.config
+C:\Users\ot\Documents\IBA\20230919\Ducks8-part2\Ducks5\bin\Debug\Ducks5.exe
+C:\Users\ot\Documents\IBA\20230919\Ducks8-part2\Ducks5\bin\Debug\Ducks5.pdb
+C:\Users\ot\Documents\IBA\20230919\Ducks8-part2\Ducks5\obj\Debug\Ducks5.csproj.AssemblyReference.cache
+C:\Users\ot\Documents\IBA\20230919\Ducks8-part2\Ducks5\obj\Debug\Ducks5.csproj.CoreCompileInputs.cache
+C:\Users\ot\Documents\IBA\20230919\Ducks8-part2\Ducks5\obj\Debug\Ducks5.exe
+C:\Users\ot\Documents\IBA\20230919\Ducks8-part2\Ducks5\obj\Debug\Ducks5.pdb
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\bin\Debug\Ducks5.exe.config
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\bin\Debug\Ducks5.exe
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\bin\Debug\Ducks5.pdb
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\obj\Debug\Ducks5.csproj.AssemblyReference.cache
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\obj\Debug\Ducks5.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\obj\Debug\Ducks5.exe
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\obj\Debug\Ducks5.pdb

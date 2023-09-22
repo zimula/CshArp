@@ -1,0 +1,14 @@
+C:\Users\zimul\Documents\c#\intro\classesNobjects\bin\Debug\net7.0\classesNobjects.exe
+C:\Users\zimul\Documents\c#\intro\classesNobjects\bin\Debug\net7.0\classesNobjects.deps.json
+C:\Users\zimul\Documents\c#\intro\classesNobjects\bin\Debug\net7.0\classesNobjects.runtimeconfig.json
+C:\Users\zimul\Documents\c#\intro\classesNobjects\bin\Debug\net7.0\classesNobjects.dll
+C:\Users\zimul\Documents\c#\intro\classesNobjects\bin\Debug\net7.0\classesNobjects.pdb
+C:\Users\zimul\Documents\c#\intro\classesNobjects\obj\Debug\net7.0\classesNobjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\c#\intro\classesNobjects\obj\Debug\net7.0\classesNobjects.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\c#\intro\classesNobjects\obj\Debug\net7.0\classesNobjects.AssemblyInfo.cs
+C:\Users\zimul\Documents\c#\intro\classesNobjects\obj\Debug\net7.0\classesNobjects.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\c#\intro\classesNobjects\obj\Debug\net7.0\classesNobjects.dll
+C:\Users\zimul\Documents\c#\intro\classesNobjects\obj\Debug\net7.0\refint\classesNobjects.dll
+C:\Users\zimul\Documents\c#\intro\classesNobjects\obj\Debug\net7.0\classesNobjects.pdb
+C:\Users\zimul\Documents\c#\intro\classesNobjects\obj\Debug\net7.0\classesNobjects.genruntimeconfig.cache
+C:\Users\zimul\Documents\c#\intro\classesNobjects\obj\Debug\net7.0\ref\classesNobjects.dll

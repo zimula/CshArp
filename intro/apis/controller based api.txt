@@ -1,0 +1,59 @@
+API (application programming interfaces): set of commands, whic interfaces the programs with processors. 
+- mechanisms that allow two software components to communicate with each other. e.g weather app (phone and weather bureau. 
+- controller based: requires db. 
+- minimal: something. 
+
+EXAMPLE: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio#create-a-web-project
+	
+	AN API THAT DOES THE FOLLOWING;
+		- get all items (GET)
+		- get a single item (GET)
+		- add a new item (POST)
+		- update existing items (PUT)
+		- delete an item ()
+		
+1. Steps in creating one: 
+	a. create web project: basically configuring.
+	
+	b. test project: see if it opens in browser and fetches the data. In my case weather data. 
+	
+	c. add model: set of commands that represent the data the app manages. 
+			- add folder to name models. 
+			- add a class to models (Todoitem)
+			- fill class with fields of interest. 
+				
+	d. add database context: entity framework functionality. 
+		- tools>NuGet Package Manager> Manage NuGet Packages for Solution> browser > Microsoft.EntityFrameworkCore.InMemory. into the search box.> select it in left pane > check project. And install. 
+		- add TodoContext database context: models>add>class "TodoContext" > add
+		- add code: 
+				using Microsoft.EntityFrameworkCore;
+
+				namespace TodoApi.Models;
+
+				public class TodoContext : DbContext
+				{
+					public TodoContext(DbContextOptions<TodoContext> options)
+						: base(options)
+					{
+					}
+
+				public DbSet<TodoItem> TodoItems { get; set; } = null!;
+				}
+	
+	e. register database context:using dependency injection container. Provides service to controllers. (add to program.cs).
+		- updating program.cs. 
+		
+	f. scaffold a controller: add scaffold to controllers folder. 
+		- add api controller attribute (allows response to web api). 
+		- adds dbcontext to controller. 
+	g. update PostToDoItem create method. 
+steps in action
+	- web project: new project > asp.net core web api template > cofigure project (todoapi) then next. 
+		additional info: net7.0 or later
+		confirm use controller or minimal.
+		create
+
+**LECTURE EXAMPLE: WEB APP 2. 
+ 
+
+ 

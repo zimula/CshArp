@@ -1,0 +1,28 @@
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\bin\Debug\net6.0\Exercise CardDeck.exe
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\bin\Debug\net6.0\Exercise CardDeck.deps.json
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\bin\Debug\net6.0\Exercise CardDeck.runtimeconfig.json
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\bin\Debug\net6.0\Exercise CardDeck.dll
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\bin\Debug\net6.0\Exercise CardDeck.pdb
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.AssemblyInfoInputs.cache
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.AssemblyInfo.cs
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.csproj.CoreCompileInputs.cache
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.dll
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\refint\Exercise CardDeck.dll
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.pdb
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.genruntimeconfig.cache
+C:\Users\ot\Documents\IBA\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\ref\Exercise CardDeck.dll
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\bin\Debug\net6.0\Exercise CardDeck.exe
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\bin\Debug\net6.0\Exercise CardDeck.deps.json
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\bin\Debug\net6.0\Exercise CardDeck.runtimeconfig.json
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\bin\Debug\net6.0\Exercise CardDeck.dll
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\bin\Debug\net6.0\Exercise CardDeck.pdb
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.AssemblyInfo.cs
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.dll
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\refint\Exercise CardDeck.dll
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.pdb
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\Exercise CardDeck.genruntimeconfig.cache
+C:\Users\zimul\Documents\c#\intro\card game\Lecture\Exercise CardDeck\Exercise CardDeck\obj\Debug\net6.0\ref\Exercise CardDeck.dll

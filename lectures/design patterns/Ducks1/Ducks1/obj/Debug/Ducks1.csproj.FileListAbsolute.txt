@@ -1,0 +1,19 @@
+C:\Users\Bruger\Documents\Programmering\2 semester 2015\Emner\Pattern\20150310\Ducks1\Ducks1\bin\Debug\Ducks1.exe.config
+C:\Users\Bruger\Documents\Programmering\2 semester 2015\Emner\Pattern\20150310\Ducks1\Ducks1\bin\Debug\Ducks1.exe
+C:\Users\Bruger\Documents\Programmering\2 semester 2015\Emner\Pattern\20150310\Ducks1\Ducks1\bin\Debug\Ducks1.pdb
+C:\Users\Bruger\Documents\Programmering\2 semester 2015\Emner\Pattern\20150310\Ducks1\Ducks1\obj\Debug\Ducks1.exe
+C:\Users\Bruger\Documents\Programmering\2 semester 2015\Emner\Pattern\20150310\Ducks1\Ducks1\obj\Debug\Ducks1.pdb
+C:\Users\ot\Documents\IBA\20230919\Ducks1\Ducks1\bin\Debug\Ducks1.exe.config
+C:\Users\ot\Documents\IBA\20230919\Ducks1\Ducks1\bin\Debug\Ducks1.exe
+C:\Users\ot\Documents\IBA\20230919\Ducks1\Ducks1\bin\Debug\Ducks1.pdb
+C:\Users\ot\Documents\IBA\20230919\Ducks1\Ducks1\obj\Debug\Ducks1.csproj.AssemblyReference.cache
+C:\Users\ot\Documents\IBA\20230919\Ducks1\Ducks1\obj\Debug\Ducks1.csproj.CoreCompileInputs.cache
+C:\Users\ot\Documents\IBA\20230919\Ducks1\Ducks1\obj\Debug\Ducks1.exe
+C:\Users\ot\Documents\IBA\20230919\Ducks1\Ducks1\obj\Debug\Ducks1.pdb
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\Ducks1\bin\Debug\Ducks1.exe.config
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\Ducks1\bin\Debug\Ducks1.exe
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\Ducks1\bin\Debug\Ducks1.pdb
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\Ducks1\obj\Debug\Ducks1.csproj.AssemblyReference.cache
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\Ducks1\obj\Debug\Ducks1.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\Ducks1\obj\Debug\Ducks1.exe
+C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\Ducks1\obj\Debug\Ducks1.pdb

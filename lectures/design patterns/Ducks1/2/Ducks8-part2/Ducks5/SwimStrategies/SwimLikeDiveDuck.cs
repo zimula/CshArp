@@ -1,0 +1,17 @@
+﻿using Ducks;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ducks
+{ 
+    public class SwimLikeDiveDuck : ISwimStrategy
+    {
+        public void DoSwim()
+        {
+            Console.WriteLine("Svømmer og ligger dybt i vandet");
+        }
+    }
+}
