@@ -70,11 +70,13 @@ MEMBERS, EXPRESSIONS AND STATEMENTS
 			static void Main(string[] args){
 				int myNum = PlusMethod(8,5);
 				double myNum1 = PlusMethod(4.3, 6.26);}
-1.4. PARAMETERS
+1.4. PARAMETERS: thought of as data passed to methods/ functions. 
 1.5. METHOD BODY AND LOCAL VARIABLES
 1.6. STATIC AND INSTANCE METHODS
+	- instance methods: require class objects. 
+	- static method: do not require objects. 
 1.7. VIRTUAL, OVERRIDE AND ABSTRACT METHODS
-1.8. METHOD OVERLOADING
+1.8. METHOD OVERLOADING: methods of the same name but dealing with different data types. 
 1.9. OTHER FUNCTION MEMBERS 
 1.10. CONSTRUCTORS 
 1.11. PROPERTIES
