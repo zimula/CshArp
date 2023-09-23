@@ -3,6 +3,73 @@ MEMBERS, EXPRESSIONS AND STATEMENTS
 1.1. ACCESSIBILITY
 1.2. FIELDS
 1.3. METHODS
+	 Block of code that runs when called. 
+		- can pass data as parameters
+		- aka functions
+		- reusability. 
+			class Program{
+			static vodi MyMethod(){
+				console.writeline("hello");}}
+		- static: belongs to method class
+		- not an object of the method class. 
+		- void: no return value. 
+		- callig method: MyMethod();
+		- must be called inside main. 
+			static void Main(string[] args){
+				MyMethod();
+			}// Outputs "Hello". 
+	
+	1.3.1: METHOD parameters: can pass parameters with or without names. 
+		- a method to return name plus surname. 
+			static void MyMethod1(string fname){
+			console.writeline(fname + "Zimula");}
+			
+			static void Main(string[] args){
+				MyMethod1("Martin")//outputs: Martin Zimula.
+			}
+	
+	1.3.2: Multiple parameters: can pass multiple parameters
+		static void MyMethod2(string fname, int age){
+			console.writeline(fname + " is " + age);
+		}
+		static void Main(string[] args){
+			MyMethod2("Martin", 36);}//Outputs Martin is 36.
+	
+	1.3.3: Default parameter value: If no argument is given, the default is used. 
+		static vodi MyMethod3(string country = "Norway"){
+			console.writeline(country);
+		}
+		static void Main(string[] args){
+			MyMethod3("Uganda"); //Output Uganda
+			MyMethod3("India");// Output India
+			MyMethod3();//Output Norway (this is the default value. 
+			MyMethod3("USA");// Output USA
+		}
+	
+	1.3.4: Return values: add primitive to method instead of "void"
+			- return value can be stored in a variable or printed. 
+		static int MyMethod4(int x){
+			return 5+x; }
+		static void Main(string[] args){
+			Console.writeline(3);}//outputs 8
+		
+		1.3.4.1: same thing with 2 parameters
+			static int MyMethod5(int x, int y){
+				return x+y;}
+			static void Main(string[] args){
+				console.writeline(MyMethod5(5,3));}//returns 8
+	1.3.5: Method overloading: methods with simialar names. 
+		- number of parameters different 
+		- type of parameters different 
+		- an addition method for different types of numbers. 
+			
+			static int PlusMethod(int x, int y){
+				return x + y;}
+			static double PlusMethod(double x, double y){
+				return x + y;}
+			static void Main(string[] args){
+				int myNum = PlusMethod(8,5);
+				double myNum1 = PlusMethod(4.3, 6.26);}
 1.4. PARAMETERS
 1.5. METHOD BODY AND LOCAL VARIABLES
 1.6. STATIC AND INSTANCE METHODS
