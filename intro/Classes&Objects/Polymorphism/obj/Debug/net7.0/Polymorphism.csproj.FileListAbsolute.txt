@@ -1,0 +1,14 @@
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\bin\Debug\net7.0\Polymorphism.exe
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\bin\Debug\net7.0\Polymorphism.deps.json
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\bin\Debug\net7.0\Polymorphism.runtimeconfig.json
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\bin\Debug\net7.0\Polymorphism.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\bin\Debug\net7.0\Polymorphism.pdb
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\obj\Debug\net7.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\obj\Debug\net7.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\obj\Debug\net7.0\Polymorphism.AssemblyInfo.cs
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\obj\Debug\net7.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\obj\Debug\net7.0\Polymorphism.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\obj\Debug\net7.0\refint\Polymorphism.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\obj\Debug\net7.0\Polymorphism.pdb
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\obj\Debug\net7.0\Polymorphism.genruntimeconfig.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Polymorphism\obj\Debug\net7.0\ref\Polymorphism.dll

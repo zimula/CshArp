@@ -98,8 +98,36 @@ INHERITANCE: inherit fields and methods from one class to another.
 		- as can be seen, the car class takes on the attributes of the vehicle class. 
 		- inheritance can be blocked using "SEALED" on the parent class. 
 		
-POLYMORPHISM
-ABSTRACTION
+POLYMORPHISM: many forms, using inherited attributes in different ways.
+	- an example using animals inheriting from parent class animal
+	- both pig and dog inherit from animal but use the method differently. 
+		
+		class Animal{
+			public void animalSound(){
+				Console.WriteLine("The animal makes a sound");
+			}
+		}
+		//pig inherits from animal
+		class Pig: Animal{
+			publc void animalSound(){
+				Console.WriteLine("The pig says: wee-wee");
+			}
+		}
+		//dog inherits from Animal
+		class Dog: Animal{
+			public void animalSound(){
+				Console.WriteLine("The dog says: bow wow");
+			}
+		}
+OVERRIDING METHODS:
+	VIRTUAL: added to the method in base class
+	OVERRIDE: added to method in derived class. 
+		- this allows the derived class to modify the method. 
+ABSTRACTION: process of hiding some details from the user. 
+			- achieve via abstract classes and interfaces. 
+			- abstract classes and methods. can not create objects.
+				- the methods have no body, it is provided by the derived class. 
+			- a simple example of an abstract class. 
 INTERFACE
 ENUMS
 EXCEPTIONS
