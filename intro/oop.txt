@@ -1,6 +1,16 @@
 OBJECT ORIENTED PROGRAMMING: OOP:
 CLASSES: a class is a template for objects. 
+	- have attributes and methods. 
+	- example of a simple car class
+		Class Car{
+			string color = "red";}
 OBJECTS: object are created from classes. 
+	- a simple car object from the car class
+		static void Main(string[] arg){
+			Car myObj1 = new Car();
+			//printing car color
+			Console.WriteLine("This car is red" + myObj1.color);//output: Ths car is red
+		}
 CLASS MEMBERS
 CONSTRUCTORS
 ACCESS MODIFIERS
