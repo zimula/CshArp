@@ -119,10 +119,12 @@ POLYMORPHISM: many forms, using inherited attributes in different ways.
 				Console.WriteLine("The dog says: bow wow");
 			}
 		}
+		
 OVERRIDING METHODS:
 	VIRTUAL: added to the method in base class
 	OVERRIDE: added to method in derived class. 
 		- this allows the derived class to modify the method. 
+
 ABSTRACTION: process of hiding some details from the user. 
 			- achieve via abstract classes and interfaces. 
 			- abstract classes and methods. can not create objects.
@@ -143,6 +145,28 @@ ABSTRACTION: process of hiding some details from the user.
 					}
 				}
 				- OVERRIDE: is use to access the abstract method. 
-INTERFACE
-ENUMS
+
+INTERFACES: an abstract class with only abstract methods and properties (empty bodies).
+	- no need for override (empty bodies)
+	- inheritance from multiple interfaces.
+	- a simple interface.
+		
+		interface IAnimal{
+			void animalSound();
+			void run();
+		}
+		-test with pig class
+		class Pig: IAnimal{
+			public void run(){
+				console.writelline("pigs are fast")
+			}
+		}
+ENUMS: special class that represents a group of constants. 
+	enum enum_name{
+		low, 
+		medium,
+		high
+	}
+	//testing
+	enum_name variable = enum_name.value;
 EXCEPTIONS
