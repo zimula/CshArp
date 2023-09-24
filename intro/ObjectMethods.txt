@@ -1,0 +1,1 @@
+OBJECT METHODS: whether specified object is equal to current object
