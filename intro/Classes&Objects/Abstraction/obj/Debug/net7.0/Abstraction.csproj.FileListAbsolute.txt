@@ -1,0 +1,14 @@
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\bin\Debug\net7.0\Abstraction.exe
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\bin\Debug\net7.0\Abstraction.deps.json
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\bin\Debug\net7.0\Abstraction.runtimeconfig.json
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\bin\Debug\net7.0\Abstraction.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\bin\Debug\net7.0\Abstraction.pdb
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\obj\Debug\net7.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\obj\Debug\net7.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\obj\Debug\net7.0\Abstraction.AssemblyInfo.cs
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\obj\Debug\net7.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\obj\Debug\net7.0\Abstraction.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\obj\Debug\net7.0\refint\Abstraction.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\obj\Debug\net7.0\Abstraction.pdb
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\obj\Debug\net7.0\Abstraction.genruntimeconfig.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Abstraction\obj\Debug\net7.0\ref\Abstraction.dll

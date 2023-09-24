@@ -127,7 +127,22 @@ ABSTRACTION: process of hiding some details from the user.
 			- achieve via abstract classes and interfaces. 
 			- abstract classes and methods. can not create objects.
 				- the methods have no body, it is provided by the derived class. 
+			- abstract classes has can have both abstract and regular methods. 
+			
 			- a simple example of an abstract class. 
+				abstract class Animal{
+					publc abstract void animalSound();//abstract method body comes from child class. 
+					publc void sleep(){//body on regular method
+						Console.WriteLine("Zzz");
+					}
+				}
+				- inherit from it wth a pig class
+				class pig: Animal{
+					publc override void animalSound(){
+						Console.WriteLine("makes sound");
+					}
+				}
+				- OVERRIDE: is use to access the abstract method. 
 INTERFACE
 ENUMS
 EXCEPTIONS
