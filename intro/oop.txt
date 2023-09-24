@@ -161,6 +161,7 @@ INTERFACES: an abstract class with only abstract methods and properties (empty b
 				console.writelline("pigs are fast")
 			}
 		}
+
 ENUMS: special class that represents a group of constants. 
 	enum enum_name{
 		low, 
@@ -169,4 +170,40 @@ ENUMS: special class that represents a group of constants.
 	}
 	//testing
 	enum_name variable = enum_name.value;
-EXCEPTIONS
+
+FILES: working with files. 
+	- preparing the namespace: using System.IO;
+	- use file class with methods: file.somefileMethod();
+	- common methods: 
+		i. AppendText();
+		ii. Copy();
+		iii. Create();
+		iv. Delete();
+		v. Exists();
+		vi. ReadAllText();
+		vii. Replace();
+		viii. WriteAllText();
+		more @ https://docs.microsoft.com/en-us/dotnet/api/system.io.file?view=netframework-4.8
+	- WRITE AND READ FILE:
+		- a simple example
+		
+		using System.IO;
+		string writeText = "hello world"; //text to add to file
+		File.WriteAllText("fileName.type", writeText); //creating file and adding text
+		string readText = File.ReadAllText("fileName.type");
+		Console.WriteLine(readText);
+	
+EXCEPTIONS: debugging your code. 
+	try: defines code to be tested 
+	catch: code to be executed in case of an error
+		
+		try{
+			code to test
+		}
+		catch{
+			code to run in case of error. 
+		}
+	finally: lets code execute after try and catch
+	- throw can also be used to throw message if criteria fails. 
+	
+	

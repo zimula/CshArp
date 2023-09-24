@@ -1,0 +1,14 @@
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\bin\Debug\net7.0\Files.exe
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\bin\Debug\net7.0\Files.deps.json
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\bin\Debug\net7.0\Files.runtimeconfig.json
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\bin\Debug\net7.0\Files.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\bin\Debug\net7.0\Files.pdb
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\obj\Debug\net7.0\Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\obj\Debug\net7.0\Files.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\obj\Debug\net7.0\Files.AssemblyInfo.cs
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\obj\Debug\net7.0\Files.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\obj\Debug\net7.0\Files.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\obj\Debug\net7.0\refint\Files.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\obj\Debug\net7.0\Files.pdb
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\obj\Debug\net7.0\Files.genruntimeconfig.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Files\obj\Debug\net7.0\ref\Files.dll
