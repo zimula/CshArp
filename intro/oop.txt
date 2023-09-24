@@ -5,16 +5,71 @@ CLASSES: a class is a template for objects.
 		Class Car{
 			string color = "red";}
 OBJECTS: object are created from classes. 
-	- a simple car object from the car class
+	- a simple car object from the car class: "new" key word is used. 
 		static void Main(string[] arg){
 			Car myObj1 = new Car();
 			//printing car color
 			Console.WriteLine("This car is red" + myObj1.color);//output: Ths car is red
 		}
-CLASS MEMBERS
-CONSTRUCTORS
-ACCESS MODIFIERS
-PROPERTIES
+CLASS MEMBERS: fields (variables and constant) and methods (actions/ functions).
+	- a simple car class with 2 fields and 1 method
+		Class Car{
+			publc string color = "red";
+			public int maxSpeed = 200;
+			public void fullThrottle(){
+				Console.WriteLine("The car is going as fast as it can!");
+			};
+		}
+		
+CONSTRUCTORS: method used to initialize objects from a class
+	- can be used to set initial values. 
+	- a simple class with a contructor
+	- an example of using a contructor to set the value of a field. 
+		Class Car{
+			string model;
+			
+			//contructor
+			publc Car(){
+				model = "Mini";}
+		}
+	CONSTRUCTOR PARAMETERS: can take parameters and value assignment at instatiation. 
+		Class Car{
+			publc string model;
+			
+			//constructor
+			publc Car(string model){
+				this.model = model;
+			}
+		}
+	ACCESS MODIFIERS
+		PUBLIC: access from all classes. 
+		PRIVATE: access only from with the class.
+		PROTECTED: from class and child classes
+		INTERNAL: only accessible from own assembly. 
+		-  a simple example of a class with a private field
+			class Car{
+				private string id;
+			}
+			- the id can only be accessed from the class, 
+			- to remedy this properties and encapsulation is needed. 
+		PROPERTIES: used to control access to hidden/ private data via methods (get and set).
+			get: returns a value of the field. 
+			set: assigns a value to the field. 
+		ENCAPSULATION: hides data from users. 
+			- getting access to id from car class. 
+					class Car{
+						private string id;
+						
+						public string Id{
+							get {return id}
+							set {id = value}
+						}
+					} 
+					OR shorten it by 
+						class Car{
+							publc id {get; set;}
+						}
+				
 INHERITANCE
 POLYMORPHISM
 ABSTRACTION

@@ -1,0 +1,14 @@
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\bin\Debug\net7.0\BasicClasses&Objects.exe
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\bin\Debug\net7.0\BasicClasses&Objects.deps.json
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\bin\Debug\net7.0\BasicClasses&Objects.runtimeconfig.json
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\bin\Debug\net7.0\BasicClasses&Objects.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\bin\Debug\net7.0\BasicClasses&Objects.pdb
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\obj\Debug\net7.0\BasicClasses&Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\obj\Debug\net7.0\BasicClasses&Objects.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\obj\Debug\net7.0\BasicClasses&Objects.AssemblyInfo.cs
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\obj\Debug\net7.0\BasicClasses&Objects.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\obj\Debug\net7.0\BasicClasses&Objects.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\obj\Debug\net7.0\refint\BasicClasses&Objects.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\obj\Debug\net7.0\BasicClasses&Objects.pdb
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\obj\Debug\net7.0\BasicClasses&Objects.genruntimeconfig.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\BasicClasses&Objects\obj\Debug\net7.0\ref\BasicClasses&Objects.dll

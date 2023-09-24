@@ -1,7 +1,12 @@
 MEMBERS, EXPRESSIONS AND STATEMENTS
 1. MEMBERS
 1.1. ACCESSIBILITY
-1.2. FIELDS
+
+1.2. FIELDS: variables
+	- assgined value from class or after object creation
+	- public, private, protected etc. 
+	- nullable or not nullable. 
+	
 1.3. METHODS
 	 Block of code that runs when called. 
 		- can pass data as parameters
@@ -70,6 +75,7 @@ MEMBERS, EXPRESSIONS AND STATEMENTS
 			static void Main(string[] args){
 				int myNum = PlusMethod(8,5);
 				double myNum1 = PlusMethod(4.3, 6.26);}
+				
 1.4. PARAMETERS: thought of as data passed to methods/ functions. 
 1.5. METHOD BODY AND LOCAL VARIABLES
 1.6. STATIC AND INSTANCE METHODS
