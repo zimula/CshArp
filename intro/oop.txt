@@ -70,7 +70,34 @@ CONSTRUCTORS: method used to initialize objects from a class
 							publc id {get; set;}
 						}
 				
-INHERITANCE
+INHERITANCE: inherit fields and methods from one class to another. 
+	- Derived class (child): the class that inherits.  
+	- Base class (parent): the class being inherited from
+	- : is used to inherit. 
+	- a simple example with car inheriting from vehicle. 
+			
+			-the parent
+		class Vehicle{
+			publc string brand = "Ford";
+			publc void honk(){
+				Console.WriteLine("Tuut, tuut!");
+			}
+		}
+			- the child
+		class Car: Vehicle
+		{	
+			publc string model = "Mustang";
+		}
+			- testing 
+		static void Main(string[] arg){
+			Car myCar = new Car();
+			//test parent method
+			myCar.honk();
+			Console.WriteLine(myCar.brand + myCar.model);
+		}
+		- as can be seen, the car class takes on the attributes of the vehicle class. 
+		- inheritance can be blocked using "SEALED" on the parent class. 
+		
 POLYMORPHISM
 ABSTRACTION
 INTERFACE
