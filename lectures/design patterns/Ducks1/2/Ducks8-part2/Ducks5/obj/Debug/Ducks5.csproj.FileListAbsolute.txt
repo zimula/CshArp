@@ -25,3 +25,10 @@ C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks
 C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\obj\Debug\Ducks5.csproj.CoreCompileInputs.cache
 C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\obj\Debug\Ducks5.exe
 C:\Users\zimul\Documents\c#\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\obj\Debug\Ducks5.pdb
+C:\Users\zimul\Documents\cSharp\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\bin\Debug\Ducks5.exe.config
+C:\Users\zimul\Documents\cSharp\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\bin\Debug\Ducks5.exe
+C:\Users\zimul\Documents\cSharp\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\bin\Debug\Ducks5.pdb
+C:\Users\zimul\Documents\cSharp\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\obj\Debug\Ducks5.csproj.AssemblyReference.cache
+C:\Users\zimul\Documents\cSharp\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\obj\Debug\Ducks5.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\obj\Debug\Ducks5.exe
+C:\Users\zimul\Documents\cSharp\lectures\design patterns\Ducks1\2\Ducks8-part2\Ducks5\obj\Debug\Ducks5.pdb

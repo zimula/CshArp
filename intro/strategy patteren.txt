@@ -1,0 +1,10 @@
+Duck project revised: 
+- extend with duck attrap
+- move create rubber duck adaptor
+- create decoy adaptor
+1. create abstract classes of rubber and decoy ducks. 
+2. connect strategies
+3. create decoy and rubber classes that inherit from the abstract class. 
+4. create an adaptor to link them to ducks. 
+	- decoy finished
+	

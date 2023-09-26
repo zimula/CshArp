@@ -1,1 +1,4 @@
 OBJECT METHODS: whether specified object is equal to current object
+	- see if 2 objects have the same memory address.
+SYSTEM OBJECTS AND METHODS.
+LATER

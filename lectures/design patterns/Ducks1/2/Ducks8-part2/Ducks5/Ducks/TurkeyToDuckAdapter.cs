@@ -26,6 +26,8 @@ namespace Ducks
         public override void DoFly()
         {
             turkey.flyStrategy.DoFly();
+            turkey.flyStrategy.DoFly();
+            turkey.flyStrategy.DoFly();
         }
     }
 }

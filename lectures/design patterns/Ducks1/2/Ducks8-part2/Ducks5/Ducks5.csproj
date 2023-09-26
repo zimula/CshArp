@@ -43,6 +43,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ducks\Decoy.cs" />
+    <Compile Include="Ducks\Decoy2DuckAdaptor.cs" />
+    <Compile Include="Ducks\DuckAttrap.cs" />
     <Compile Include="Ducks\RubberDuck.cs" />
     <Compile Include="Ducks\TurkeyToDuckAdapter.cs" />
     <Compile Include="Ducks\Widgeon.cs" />
@@ -50,6 +52,7 @@
     <Compile Include="Ducks\Greenwing.cs" />
     <Compile Include="Ducks\Mallard.cs" />
     <Compile Include="FlyStrategies\FlyShort.cs" />
+    <Compile Include="Rubber2Duck.cs" />
     <Compile Include="Turkeys\WildTurkey.cs" />
     <Compile Include="Turkeys\Turkey.cs" />
     <Compile Include="Ducks\Duck.cs" />

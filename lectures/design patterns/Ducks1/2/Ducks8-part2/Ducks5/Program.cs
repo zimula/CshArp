@@ -15,19 +15,21 @@ namespace Ducks
             ReadHeadDuck readHead = new ReadHeadDuck("Rødand");
             HelperDuck(readHead);
 
-            Greenwing krikAnd = new Greenwing("Krikand");
+            Greenwing krikAnd = Greenwing.GetInstance();
+            HelperDuck(krikAnd);
+            Greenwing krikAnd2 = Greenwing.GetInstance();
             HelperDuck(krikAnd);
 
             Widgeon pibeAnd = new Widgeon("Pibeand");
             HelperDuck(pibeAnd);
 
             RubberDuck gummiAnd = new RubberDuck("Gummiand");
-            HelperDuck(gummiAnd);
+            HelperRubber(gummiAnd);
             gummiAnd.quackStrategy = new QuackSilent();
-            HelperDuck(gummiAnd);
+            HelperRubber(gummiAnd);
 
             Decoy lokkeAnd = new Decoy("Lokkeand");
-            HelperDuck(lokkeAnd);
+            HelperDecoy(lokkeAnd);
 
             WildTurkey wildTurkey = new WildTurkey("Vild Kalkun");
             HelperTurkey(wildTurkey);
@@ -59,6 +61,29 @@ namespace Ducks
             turkey.goobleStrategy.DoGooble();
             turkey.swimStrategy.DoSwim();
             turkey.flyStrategy.DoFly();
+            Console.WriteLine("-------------");
+        }
+        static void HelperDecoy(Decoy decoy)
+        {
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(decoy.Name);
+            Console.ForegroundColor = ConsoleColor.Black;
+            decoy.quackStrategy.DoQuack();
+            decoy.swimStrategy.DoSwim();
+            decoy.flyStrategy.DoFly();
+            Console.WriteLine("-------------");
+        }
+
+        static void HelperRubber(RubberDuck rubberDuck)
+        {
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(rubberDuck.Name);
+            Console.ForegroundColor = ConsoleColor.Black;
+            rubberDuck.quackStrategy.DoQuack();
+            rubberDuck.swimStrategy.DoSwim();
+            rubberDuck.flyStrategy.DoFly();
             Console.WriteLine("-------------");
         }
     }
