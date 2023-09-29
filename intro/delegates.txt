@@ -20,11 +20,11 @@ DELIGATES: method whose primary purpose is to call other methods.
 				
 				class Program{
 					static void Main(string[] args){
-						MathFunc mf = new MathFunc("add")// calls the add method. 
+						MathFunc mf = new MathFunc(add)// calls the add method. 
 						//applying the delegate
 						console.writeline(mf(4,5));
 						//calling another mehtod using the same delegate
-						mf = new MathFunc("sub");
+						mf = new MathFunc(sub);
 						console.writeline("mf(4,5));
 						
 						
@@ -37,5 +37,7 @@ DELIGATES: method whose primary purpose is to call other methods.
 						}
 					}
 				}
+			- static methods were used for the example above.
+			- same thing with instance methods. 
 				
-			}
+			}/////////////////////////-113-/////////////////////////////
