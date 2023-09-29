@@ -17,6 +17,7 @@ namespace Ducks
 
             Greenwing krikAnd = Greenwing.GetInstance();
             HelperDuck(krikAnd);
+            //Singleton applied to see if it's limited to one duck. 
             Greenwing krikAnd2 = Greenwing.GetInstance();
             HelperDuck(krikAnd);
 
@@ -24,8 +25,6 @@ namespace Ducks
             HelperDuck(pibeAnd);
 
             RubberDuck gummiAnd = new RubberDuck("Gummiand");
-            HelperRubber(gummiAnd);
-            gummiAnd.quackStrategy = new QuackSilent();
             HelperRubber(gummiAnd);
 
             Decoy lokkeAnd = new Decoy("Lokkeand");

@@ -1,5 +1,5 @@
 OBJECT COLLABORATION: relationship between objects. How they work together. 
-DEPENDENCY: an object requires another unrelated object to complete its task. 
+DEPENDENCY(solid line): an object requires another unrelated object to complete its task. 
 	- a good example is the relationship between FOOD and FOODREPOSITORY: 
 	- the repository requires food to do the serializing. 
 		public class Food{
@@ -22,7 +22,33 @@ DEPENDENCY: an object requires another unrelated object to complete its task.
 		}
 	- the FoodRepository class requires a food object to create a FoodRepository object
 		- the FoodRepository object is an instance in the database. 
-ASSOCIATION:
-	AGGREGATION
-	COMPOSITION
-INHERITANCE
+	- an object can be related to multiple objects. 
+	
+ASSOCIATION: one object knows another and is associated with it. Like a car and an engine. 
+			- car can't function without an engine even though an engine can exist on its own. 
+			- there are 2 types of association. 
+	AGGREGATION(empty diamond):an object has another in it as a property but this object is independent. 
+				- like the car engine. It's a property of the car but it can do fine without the car. 
+				- from the food example, a class named chef is introduce. 
+				- chef is a property of food because food can't cook itself. 
+					public class Food{
+						public int? FoodId {get; set;}
+						public string Name {get; set;}
+						public decimal Price {get; set;}
+						public Chef Chef{get; set;}
+					}
+					public class Chef{
+						public int Id {get; set;}
+						public string Name {get; set;}
+					}
+					- we can see that Food requires a Chef object as a property. 
+
+	COMPOSITION(dark diamond): similar to aggregaton but the property object can't exist on its own. 
+				- examples are order and order items, subject and grade etc. 
+				public class Order{
+					public int Id {get; set;}
+					public List<OrderItem> OrderItem{get; set;}
+					public Customer Customer{get; set;}
+				}
+				- as can be seen, OrderItem object is a property of Order but can't exist independently.  
+INHERITANCE(empty arrow): the objects class inherits attributes from another class. 

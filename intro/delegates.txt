@@ -1,0 +1,41 @@
+DELIGATES: method whose primary purpose is to call other methods. 
+	- makes the code lighter by not having to run all methods at run time. Only those that are 
+		required. 
+	- Usually declared outside classes: before static void Main(string[] args){}
+	- example: 
+	
+		delegate int MathFunc(int a, int b);
+			- a delegate of type int
+			- named MathFunc
+			- with 2 parameters. 
+			- must be instantiated as an object 
+				MathFunc mf = new MathFunc("method name");
+			- applying on values for testing
+				consoloe.writeline(mf(4, 5)); //applies the referenced method to the values.
+			- a full example:
+				
+			namespace delegate1{
+				
+				delegate int MathFunc(int a, int b);
+				
+				class Program{
+					static void Main(string[] args){
+						MathFunc mf = new MathFunc("add")// calls the add method. 
+						//applying the delegate
+						console.writeline(mf(4,5));
+						//calling another mehtod using the same delegate
+						mf = new MathFunc("sub");
+						console.writeline("mf(4,5));
+						
+						
+						//the methods being called. 
+						public static int add(int a, int b){
+							return a+b;
+						}
+						public static int sub(int a, int b){
+							return (a>b)? (a-b):(b-a);
+						}
+					}
+				}
+				
+			}

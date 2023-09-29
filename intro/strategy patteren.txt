@@ -1,4 +1,5 @@
 Duck project revised: 
+
 - extend with duck attrap
 - move create rubber duck adaptor
 - create decoy adaptor
@@ -8,3 +9,13 @@ Duck project revised:
 4. create an adaptor to link them to ducks. 
 	- decoy finished
 	
+	
+	
+
+
+singleton and strategy patterns
+
+
+books:
+57 exercise
+
