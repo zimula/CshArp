@@ -38,6 +38,11 @@ DELIGATES: method whose primary purpose is to call other methods.
 					}
 				}
 			- static methods were used for the example above.
-			- same thing with instance methods. 
+			- For instance methods, an object of the class with methods is required. 
+				delegate int MathFunc(int a, int b);
+				- instantiation
+					Class_with_method something = new Class_with_method();
+					delegate something1 = something.method;
+					
 				
 			}/////////////////////////-113-/////////////////////////////

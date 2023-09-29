@@ -18,7 +18,16 @@ namespace Delegates
             Console.WriteLine("Addition result: "+ " " + mfa(4,5));
             mfa = new MathFunc(MethodsClass.Sub);
             Console.WriteLine("Subtraction result:" + " " +  mfa(4,5));
-            // as illustrated, a delegate can be used for multiple methods, as long as they have the same signature. 
+            // as illustrated, a delegate can be used for multiple methods, as long as they have the same signature.
+            
+
+            //The same thing can be done with instance methods. Only require an object before usage. 
+            Console.WriteLine("Using instance methods");
+            InstanceMethodClass mf = new InstanceMethodClass();
+            MathFunc fm = mf.add;
+            Console.WriteLine("Addition result: " + fm(4,5));
+            fm = mf.sub;
+            Console.WriteLine("Subtraction result: " + fm(4,5));
         }
     }
 }
