@@ -1,2 +1,1 @@
-"#CshArp"
-just covering the basics
+A simple introduction to c#. 

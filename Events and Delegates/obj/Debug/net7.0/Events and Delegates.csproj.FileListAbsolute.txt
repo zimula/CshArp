@@ -1,0 +1,14 @@
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\bin\Debug\net7.0\Events and Delegates.exe
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\bin\Debug\net7.0\Events and Delegates.deps.json
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\bin\Debug\net7.0\Events and Delegates.runtimeconfig.json
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\bin\Debug\net7.0\Events and Delegates.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\bin\Debug\net7.0\Events and Delegates.pdb
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\obj\Debug\net7.0\Events and Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\obj\Debug\net7.0\Events and Delegates.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\obj\Debug\net7.0\Events and Delegates.AssemblyInfo.cs
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\obj\Debug\net7.0\Events and Delegates.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\obj\Debug\net7.0\Events and Delegates.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\obj\Debug\net7.0\refint\Events and Delegates.dll
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\obj\Debug\net7.0\Events and Delegates.pdb
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\obj\Debug\net7.0\Events and Delegates.genruntimeconfig.cache
+C:\Users\zimul\Documents\cSharp\intro\Classes&Objects\Events and Delegates\obj\Debug\net7.0\ref\Events and Delegates.dll

@@ -1,0 +1,99 @@
+DELIGATES: method whose primary purpose is to call other methods. 
+	- makes the code lighter by not having to run all methods at run time. Only those that are 
+		required. 
+	- Usually declared outside classes: before static void Main(string[] args){}
+	- example: 
+	
+		delegate int MathFunc(int a, int b);
+			- a delegate of type int
+			- named MathFunc
+			- with 2 parameters. 
+			- must be instantiated as an object 
+				MathFunc mf = new MathFunc("method name");
+			- applying on values for testing
+				consoloe.writeline(mf(4, 5)); //applies the referenced method to the values.
+			- a full example:
+				
+			namespace delegate1{
+				
+				delegate int MathFunc(int a, int b);
+				
+				class Program{
+					static void Main(string[] args){
+						MathFunc mf = new MathFunc(add)// calls the add method. 
+						//applying the delegate
+						console.writeline(mf(4,5));
+						//calling another mehtod using the same delegate
+						mf = new MathFunc(sub);
+						console.writeline("mf(4,5));
+						
+						
+						//the methods being called. 
+						public static int add(int a, int b){
+							return a+b;
+						}
+						public static int sub(int a, int b){
+							return (a>b)? (a-b):(b-a);
+						}
+					}
+				}
+			- static methods were used for the example above.
+			- For instance methods, an object of the class with methods is required. 
+				delegate int MathFunc(int a, int b);
+				- instantiation
+					Class_with_method something = new Class_with_method();
+					delegate something1 = something.method;
+					
+				
+EVENTS: a notification sent by an object to signal the occurrence of an action
+	PUBLISHER: Class that raises event. Publishing class in our example. 
+	SUBSCRIBER: Class that receives/ reacts to event. Email class in our example. 
+	- example: publishing and auto mail
+		STEPS IN DEALING WITH EVENTS:
+			a. declare delegate
+			b. Add event to delegate in the class with the method of interest. 
+			c. register method with event. 
+			d. call method with delegate();
+		
+		public delegate void GetResult();
+		
+		public class ResultPublishEvent{
+			
+			public event GetResult PublishResult; 
+				- adding event to delegate
+				
+			public void PublishResultNow(){ 
+				
+				if(PublishResult != null){
+				
+					console.writeline("We are publishing the result now!");
+					
+					console.writeline("");
+					
+					PublishResult(); //invoke delegate 
+				}
+			}
+		}
+		public clas EmailHandler{
+			public void SendEmail(){
+				console.writeline("Results have been emailed successfully!");
+			}
+		}
+		
+		- executing the program
+		public class program{
+			public static void Main(string[] args){
+			
+				//publishing and emailing objects
+				ResultPublishEvent e = new ResultPublishEvent();
+				EmailHandler mail = new EmailHandler();
+				
+				//calling object methods. 
+					- 
+				e.PublishResult += mail.SendEmail; //adding method to event. 
+				e.PublishResultNow(); // calling method that invokes delegate. 
+				console.readlline();
+				
+			}
+			
+		}
