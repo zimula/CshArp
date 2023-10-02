@@ -10,7 +10,7 @@ namespace Events_and_Delegates.Publish_Classes
     {
         //event PublishResult of delegate type GetResult using event keyword. 
             //GetResult is declared in the name space. 
-        public event GetResult PublishResult;
+        public event GetResult? PublishResult;
 
         public void PublishResultNow()
         {

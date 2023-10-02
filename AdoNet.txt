@@ -1,0 +1,108 @@
+ADO.NET: ACTIVEx DATA OBJECT:
+	- classes and methods used to connect with a database. 
+
+DATA PROVIDERS: used to connect and interact with a datasource. 
+	
+	Connection object: used to get access to the database
+		SqlConnectoncon pipe = new SqlConnectoncon();
+		pipe.connectionString= "Data source=servername; database=databaseName; IntegratedSecurity = SSPI";
+			- basically holds info required to connect ot database.
+
+				
+	
+	Command object: use to give command to database. Or execute sql commands like select etc.
+		- first a string with sql command is created. 
+			string sql = "select * from table";
+		- the string is then passed to the command together withe the connection object. 
+			SqlCommand  command = new SqlCommand(sql, pipe);
+			pipe.Open();
+	DataReader object: reads the data from the database if it's available. 
+		- first check if data is available
+		- reads one record at a time 
+		- reads in forward direction only. 
+		- cannot perform updates. 
+			while(reader.Read()){
+				Console.WriteLine(reader(i) + reader(...) + reader(k));
+			}
+		////////////////HOW IT LOOKS USING MYSQL: 
+		try
+            {
+                string connectionString = "server=localhost;uid=root;pwd=220178;database=akademi";
+
+                MySqlConnection pipe = new MySqlConnection();//connection object. 
+
+
+
+                pipe.ConnectionString = connectionString;//assigns connections string
+
+                pipe.Open();//opens connection
+
+                string sql = "select * from afdeling";//the query
+                //string sql = "insert into afdeling(AfdelingNavn, AfdelingChef) values('Physics', 'Martin Z')";
+
+                MySqlCommand cmd = new MySqlCommand(sql, pipe);//command object and parameters
+
+                MySqlDataReader reader = cmd.ExecuteReader();//reader object. 
+
+                while (reader.Read())//loop table using reader method. 
+                {
+                    Console.WriteLine("ID: " + reader.GetString(0) + " " + "Navn: " + reader.GetString(1) + " " + "Chef: " + reader.GetString(2));
+                }
+                pipe.Close();// closes connection
+            }
+            catch (MySqlException ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
+			
+	DataAdapter: lets you retrieve datasets and modify them 
+		- reads and updates using datasets.
+		- relies on command builder. 
+		SQLCOMMANDBULDER: 	
+			- only needs select sql command and generates the rest. 
+			- for the rest, all you need is to resuse the dataset and adaper. 
+			
+			//the initial code with select: MYSQL version. 
+			
+				string connectionString = "server=localhost;uid=root;pwd=220178;database=akademi";
+                MySqlConnection pip = new MySqlConnection(connectionString);
+
+                string command = "select * from afdeling";
+
+                MySqlCommand mySqlCommand = new MySqlCommand(command, pip);
+
+                //command builder
+                MySqlCommandBuilder mySqlBuilder = new MySqlCommandBuilder();
+                //dataAdapter
+                MySqlDataAdapter mySqlDataAdapter = new MySqlDataAdapter();
+                //associatebuilder with adapter
+                mySqlBuilder.DataAdapter = mySqlDataAdapter;
+
+                //specify select commang
+                //the adaptor will use it to generate update, insert etc. 
+                mySqlDataAdapter.SelectCommand = mySqlCommand;
+
+                //create dataset
+                DataSet dataset = new DataSet();
+                //use adapter to populate dataset 
+                mySqlDataAdapter.Fill(dataset, "afdeling");
+                
+                //loop through dataset
+                foreach(DataTable table in dataset.Tables)
+                {
+                    foreach(DataRow row in table.Rows)
+                    {
+                        foreach (DataColumn column in table.Columns)
+                        {
+                            Console.WriteLine(row[column]);
+                            
+                        }
+                        Console.WriteLine("====================================================================================");
+                    }
+                }
+				- All that's required to access other sql command is;
+					a. declaring dataset and adapter in the class
+					b. and only instantiating them in the method. 
+	
+	
+ 
