@@ -6,9 +6,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AdoAdaptorWpf"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="450" Loaded="Window_Loaded">
-    <Grid Height="400" VerticalAlignment="Center" HorizontalAlignment="Center" Width="350">
-        <DataGrid d:ItemsSource="{Binding}" x:Name="dpt" Height="200" Width="300" Background="LightBlue" AutoGenerateColumns="True"/>
+        Title="MainWindow" Height="865" Width="1285" Loaded="Window_Loaded">
+    <Grid Height="635" VerticalAlignment="Center" HorizontalAlignment="Center" Width="842">
+        <DataGrid d:ItemsSource="{Binding}" x:Name="dpt" Background="LightBlue" AutoGenerateColumns="True" Margin="26,59,284,28"/>
+        
+        <Button x:Name="btnUpdate" Height="30" Width="70" Margin="-13,698,785,-93" Click="btnUpdate_Click" FontWeight="Bold">Update</Button>
     </Grid>
-   
+
+
 </Window>

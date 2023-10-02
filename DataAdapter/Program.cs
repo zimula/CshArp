@@ -15,7 +15,7 @@ namespace DataAdapter
         static void Main(string[] args)
         {
             AccessAfdeling afdeling = new AccessAfdeling();
-            afdeling.updateAfdeling();
+            afdeling.accessEmps();
 
             
             

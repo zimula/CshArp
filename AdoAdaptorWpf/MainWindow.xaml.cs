@@ -28,21 +28,18 @@ namespace AdoAdaptorWpf
         public MainWindow()
         {
             InitializeComponent();
-           ;
-
-            
-
-
         }
+
+
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             try
             {
-                string connectionString = "server=localhost;uid=root;pwd=220178;database=akademi";
+                string connectionString = "server=localhost;uid=root;pwd=220178;database=sql_hr";
                 MySqlConnection con = new MySqlConnection(connectionString);
                 con.Open();
-                string sql_command = "select * from afdeling";
+                string sql_command = "select * from employees";
                 MySqlCommand orders = new MySqlCommand(sql_command, con);
                 //command builder
                 MySqlCommandBuilder mysqlbuilder = new MySqlCommandBuilder();
@@ -55,24 +52,31 @@ namespace AdoAdaptorWpf
                 //create dataset
                 ds = new DataSet();
                 //populate dataset
-                mySqlDataAdapter.Fill(ds, "afdeling");
+                mySqlDataAdapter.Fill(ds, "employees");
 
-
+                //Update datagrid
                 dpt.ItemsSource = ds.Tables[0].DefaultView;
                 
-
-
-
-
-
-
-               
-
 
             }
             catch (Exception x)
             {
                 MessageBox.Show(x.Message.ToString());
+            }
+        }
+
+        private void btnUpdate_Click(object sender, RoutedEventArgs e)
+        {
+            //apply changes to database.
+            try
+            {
+                //reuse dataAdapter and dataset
+                mySqlDataAdapter.Update(ds, "employees");
+                MessageBox.Show("Update successful!");
+            }
+            catch (Exception m)
+            {
+                MessageBox.Show(m.ToString());
             }
         }
     }
