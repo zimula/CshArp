@@ -1,0 +1,43 @@
+DESIGN PATTERNS: creating generic solutions to software design problems. 
+- use duck game as warm up. 
+CREATIONAL: approaches to object instantiation
+	1. Abstract factory: provides and interface for creating groups of related objects
+		without specifying concrete classes. 
+		- example: 
+			i. Imagine a manufacture who produces 2 types of vehicles (car and van)
+			ii. Each type of car has a Body, a Chassis and Glass. 
+			iii. Each type of vehicle has its own specific parts. 
+			- using abstraction factory, we get the following code (hierarchical). 
+				a. interfaces: IBody, IChassis, IGlass
+				b. method classes: CarBody, VanBody, CarChassis, VanChassis, CarGlass, VanGlass
+				c. The factory classes: a way to instantiate the correct object without instantiating concrete classes. 
+					(An abstrac vehicle factory, a CarFactory and a VanFactory)
+				d. Use client (Program class) to create objects.
+			- how it works using body parts as example:
+				a. build an IBody interface
+				b. reference it from each of the method classes (CarBody and VanBody)
+				c. create abstract factory and pass them as properties (interface method-class method ();)
+				d. create concrete factory classes and inherit from abstract factory.
+				e. the client:
+					- instantiate a factory and set it to null. 
+					- set criteria for choosing factory
+					- invoke method via factory
+					- print. 
+		- Coclusion: Good but can get very complex when trying to expand. 
+		- code uploaded to git as "CreationalAbstractFactory".
+		
+		
+	2. Builder: separates object from its representation and allow for different representations. 
+	3. Factory method: interface for creating object but sub classes decide which class to instantiate. 
+	4. Prototype: create objects by copying the prototype.
+	5. Singleton: makes sure that a class only creates one object. 
+	
+STRUCTURAL: combining classes and abjects to form larger structures.
+BEHAVIOURAL: approaches for handling communication between objects.
+	1. Template method: abstract class defines the skeleton of an algorithm and lets subclasses redefine them. 
+		- example: printing shop with 2 types of booklets. 
+			i. abstract class: sets the stage its protected properties and methods
+			ii. sub classe override with their own method body. 
+			iii. Instead of calling one method at time, this pattern lets you call all of them at once. 
+			code uploaded to git as "
+	

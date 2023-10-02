@@ -1,0 +1,14 @@
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\bin\Debug\net7.0\CreationalAbstractFactory.exe
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\bin\Debug\net7.0\CreationalAbstractFactory.deps.json
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\bin\Debug\net7.0\CreationalAbstractFactory.runtimeconfig.json
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\bin\Debug\net7.0\CreationalAbstractFactory.dll
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\bin\Debug\net7.0\CreationalAbstractFactory.pdb
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\obj\Debug\net7.0\CreationalAbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\obj\Debug\net7.0\CreationalAbstractFactory.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\obj\Debug\net7.0\CreationalAbstractFactory.AssemblyInfo.cs
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\obj\Debug\net7.0\CreationalAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\obj\Debug\net7.0\CreationalAbstractFactory.dll
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\obj\Debug\net7.0\refint\CreationalAbstractFactory.dll
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\obj\Debug\net7.0\CreationalAbstractFactory.pdb
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\obj\Debug\net7.0\CreationalAbstractFactory.genruntimeconfig.cache
+C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\obj\Debug\net7.0\ref\CreationalAbstractFactory.dll

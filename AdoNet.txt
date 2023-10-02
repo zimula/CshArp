@@ -103,6 +103,3 @@ DATA PROVIDERS: used to connect and interact with a datasource.
 				- All that's required to access other sql command is;
 					a. declaring dataset and adapter in the class
 					b. and only instantiating them in the method. 
-	
-	
- 

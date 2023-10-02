@@ -1,0 +1,14 @@
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\bin\Debug\net7.0\BehaviouralTemplateMethod.exe
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\bin\Debug\net7.0\BehaviouralTemplateMethod.deps.json
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\bin\Debug\net7.0\BehaviouralTemplateMethod.runtimeconfig.json
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\bin\Debug\net7.0\BehaviouralTemplateMethod.dll
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\bin\Debug\net7.0\BehaviouralTemplateMethod.pdb
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\obj\Debug\net7.0\BehaviouralTemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\obj\Debug\net7.0\BehaviouralTemplateMethod.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\obj\Debug\net7.0\BehaviouralTemplateMethod.AssemblyInfo.cs
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\obj\Debug\net7.0\BehaviouralTemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\obj\Debug\net7.0\BehaviouralTemplateMethod.dll
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\obj\Debug\net7.0\refint\BehaviouralTemplateMethod.dll
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\obj\Debug\net7.0\BehaviouralTemplateMethod.pdb
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\obj\Debug\net7.0\BehaviouralTemplateMethod.genruntimeconfig.cache
+C:\Users\zimul\Documents\cSharp\BehaviouralTemplateMethod\obj\Debug\net7.0\ref\BehaviouralTemplateMethod.dll
