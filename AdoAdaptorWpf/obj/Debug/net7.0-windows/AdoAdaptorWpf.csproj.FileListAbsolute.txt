@@ -33,3 +33,4 @@ C:\Users\zimul\Documents\cSharp\AdoAdaptorWpf\bin\Debug\net7.0-windows\runtimes\
 C:\Users\zimul\Documents\cSharp\AdoAdaptorWpf\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Users\zimul\Documents\cSharp\AdoAdaptorWpf\obj\Debug\net7.0-windows\AdoAdaptorWpf.csproj.AssemblyReference.cache
 C:\Users\zimul\Documents\cSharp\AdoAdaptorWpf\obj\Debug\net7.0-windows\AdoAdaptorWpf.csproj.CopyComplete
+C:\Users\zimul\Documents\cSharp\AdoAdaptorWpf\bin\Debug\net7.0-windows\MySqlConnector.dll

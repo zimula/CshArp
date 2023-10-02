@@ -28,8 +28,7 @@ namespace AdoAdaptorWpf
         public MainWindow()
         {
             InitializeComponent();
-            Afdeling test = new Afdeling();
-            test.accessAfd();
+           ;
 
             
 
@@ -57,10 +56,9 @@ namespace AdoAdaptorWpf
                 ds = new DataSet();
                 //populate dataset
                 mySqlDataAdapter.Fill(ds, "afdeling");
-                
 
-                DataTable mytable = ds.Tables[0];
-                dpt.Items.Add(mytable.Rows);
+
+                dpt.ItemsSource = ds.Tables[0].DefaultView;
                 
 
 

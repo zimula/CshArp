@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6AjNh9bcQA5FcV8uwE9GdSOoBL/cEUMKUADVtoOblqubT+/XbtTQzrtwjRiU4lhCofSjuHYHfVlyWbQwb5tu1g==",
+  "dgSpecHash": "c2HoRVFBgDDuhu0piSkV0o8c35Y8y+Nrc5DfCH3Ld2aPVQWhUspSncxzSp4IA+ynSz71/pjkx18lOjY2z5hWfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zimul\\Documents\\cSharp\\AdoAdaptorWpf\\AdoAdaptorWpf.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\zimul\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\zimul\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\zimul\\.nuget\\packages\\mysql.data\\8.1.0\\mysql.data.8.1.0.nupkg.sha512",
+    "C:\\Users\\zimul\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512",
     "C:\\Users\\zimul\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\zimul\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\zimul\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
