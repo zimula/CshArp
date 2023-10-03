@@ -27,9 +27,8 @@ CONSTRUCTORS: method used to initialize objects from a class
 	- an example of using a contructor to set the value of a field. 
 		Class Car{
 			string model;
-			
 			//contructor
-			publc Car(){
+			publc Car(string model){
 				model = "Mini";}
 		}
 	CONSTRUCTOR PARAMETERS: can take parameters and value assignment at instatiation. 
@@ -138,7 +137,7 @@ ABSTRACTION: process of hiding some details from the user.
 						Console.WriteLine("Zzz");
 					}
 				}
-				- inherit from it wth a pig class
+				- inherit from it with a pig class
 				class pig: Animal{
 					publc override void animalSound(){
 						Console.WriteLine("makes sound");

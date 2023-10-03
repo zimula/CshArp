@@ -12,7 +12,7 @@ namespace Polymorphism
         {
             this.type = type;//inherited from base
         }
-        public void animalSound()
+        public override void animalSound()
         {
             Console.WriteLine("The pig says: wee wee");
         }

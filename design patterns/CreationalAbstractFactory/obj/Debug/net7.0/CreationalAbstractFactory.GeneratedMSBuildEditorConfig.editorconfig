@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CreationalAbstractFactory
-build_property.ProjectDir = C:\Users\zimul\Documents\cSharp\CreationalAbstractFactory\
+build_property.ProjectDir = C:\Users\zimul\Documents\cSharp\design patterns\CreationalAbstractFactory\

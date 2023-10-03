@@ -1,0 +1,14 @@
+C:\Users\zimul\Documents\cSharp\studentCourses\bin\Debug\net7.0\studentCourses.exe
+C:\Users\zimul\Documents\cSharp\studentCourses\bin\Debug\net7.0\studentCourses.deps.json
+C:\Users\zimul\Documents\cSharp\studentCourses\bin\Debug\net7.0\studentCourses.runtimeconfig.json
+C:\Users\zimul\Documents\cSharp\studentCourses\bin\Debug\net7.0\studentCourses.dll
+C:\Users\zimul\Documents\cSharp\studentCourses\bin\Debug\net7.0\studentCourses.pdb
+C:\Users\zimul\Documents\cSharp\studentCourses\obj\Debug\net7.0\studentCourses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\cSharp\studentCourses\obj\Debug\net7.0\studentCourses.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\cSharp\studentCourses\obj\Debug\net7.0\studentCourses.AssemblyInfo.cs
+C:\Users\zimul\Documents\cSharp\studentCourses\obj\Debug\net7.0\studentCourses.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\studentCourses\obj\Debug\net7.0\studentCourses.dll
+C:\Users\zimul\Documents\cSharp\studentCourses\obj\Debug\net7.0\refint\studentCourses.dll
+C:\Users\zimul\Documents\cSharp\studentCourses\obj\Debug\net7.0\studentCourses.pdb
+C:\Users\zimul\Documents\cSharp\studentCourses\obj\Debug\net7.0\studentCourses.genruntimeconfig.cache
+C:\Users\zimul\Documents\cSharp\studentCourses\obj\Debug\net7.0\ref\studentCourses.dll

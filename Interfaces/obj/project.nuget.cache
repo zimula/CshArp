@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zBf2pONu1sxir6NIAlYXj1ZpBA1D2v7iuioNgFlO8HpMmwEHFkklunl0JJIEcprt5LNW/eI3uEZrALFm7DBRBg==",
+  "dgSpecHash": "MOnHDKOurWZqQKwHa/7LLSwo2BFMnp10gwnwG5Rv/6He/Y786yCzaweodtCREwk0z1AOb0lXWU2cOh5/nXEqdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Interfaces\\Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\zimul\\Documents\\cSharp\\Interfaces\\Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

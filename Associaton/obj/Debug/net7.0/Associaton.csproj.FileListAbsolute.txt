@@ -1,0 +1,14 @@
+C:\Users\zimul\Documents\cSharp\Associaton\bin\Debug\net7.0\Associaton.exe
+C:\Users\zimul\Documents\cSharp\Associaton\bin\Debug\net7.0\Associaton.deps.json
+C:\Users\zimul\Documents\cSharp\Associaton\bin\Debug\net7.0\Associaton.runtimeconfig.json
+C:\Users\zimul\Documents\cSharp\Associaton\bin\Debug\net7.0\Associaton.dll
+C:\Users\zimul\Documents\cSharp\Associaton\bin\Debug\net7.0\Associaton.pdb
+C:\Users\zimul\Documents\cSharp\Associaton\obj\Debug\net7.0\Associaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\cSharp\Associaton\obj\Debug\net7.0\Associaton.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\cSharp\Associaton\obj\Debug\net7.0\Associaton.AssemblyInfo.cs
+C:\Users\zimul\Documents\cSharp\Associaton\obj\Debug\net7.0\Associaton.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\Associaton\obj\Debug\net7.0\Associaton.dll
+C:\Users\zimul\Documents\cSharp\Associaton\obj\Debug\net7.0\refint\Associaton.dll
+C:\Users\zimul\Documents\cSharp\Associaton\obj\Debug\net7.0\Associaton.pdb
+C:\Users\zimul\Documents\cSharp\Associaton\obj\Debug\net7.0\Associaton.genruntimeconfig.cache
+C:\Users\zimul\Documents\cSharp\Associaton\obj\Debug\net7.0\ref\Associaton.dll

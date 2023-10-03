@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wFHeCcfjl9l8oeqegJdzUvWyJ2jniM2FDkmBlV+mAS7SNGesPbJSW0XLds9EVxTWMegPzqi0GHf5Q20ijGZtPg==",
+  "dgSpecHash": "PWuseP9VIq7EqGbEFc5vVB2wn97YUZhjXZzQ/neVOTo0cO+HggFIXHJrh2U3hcpBp3361GB1j5lMjrZ152Tc6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Polymorphism\\Polymorphism.csproj",
+  "projectFilePath": "C:\\Users\\zimul\\Documents\\cSharp\\Polymorphism\\Polymorphism.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

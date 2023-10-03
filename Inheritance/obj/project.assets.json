@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Inheritance\\Inheritance.csproj",
+      "projectUniqueName": "C:\\Users\\zimul\\Documents\\cSharp\\Inheritance\\Inheritance.csproj",
       "projectName": "Inheritance",
-      "projectPath": "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Inheritance\\Inheritance.csproj",
+      "projectPath": "C:\\Users\\zimul\\Documents\\cSharp\\Inheritance\\Inheritance.csproj",
       "packagesPath": "C:\\Users\\zimul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Inheritance\\obj\\",
+      "outputPath": "C:\\Users\\zimul\\Documents\\cSharp\\Inheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zimul\\AppData\\Roaming\\NuGet\\NuGet.Config",

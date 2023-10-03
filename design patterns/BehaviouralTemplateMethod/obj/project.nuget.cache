@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QecifAM9JEZ/GPKpMCUHdo6obyIQItSzU3zyA76MJ66Qrc4yKyVianOthaccu3RckszAifxwOlcQTNMYZfFLPw==",
+  "dgSpecHash": "31cN7z65wFLMbzal45bXbld7J6l2HM7VVy3Uhy0T59qD+3tHAz7a/8Z/oBRmiLQ/VQjXG4K1M5F7p9aeyMCAig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zimul\\Documents\\cSharp\\BehaviouralTemplateMethod\\BehaviouralTemplateMethod.csproj",
+  "projectFilePath": "C:\\Users\\zimul\\Documents\\cSharp\\design patterns\\BehaviouralTemplateMethod\\BehaviouralTemplateMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

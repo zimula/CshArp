@@ -1,0 +1,14 @@
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\bin\Debug\net7.0\PolyCatnDog.exe
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\bin\Debug\net7.0\PolyCatnDog.deps.json
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\bin\Debug\net7.0\PolyCatnDog.runtimeconfig.json
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\bin\Debug\net7.0\PolyCatnDog.dll
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\bin\Debug\net7.0\PolyCatnDog.pdb
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\obj\Debug\net7.0\PolyCatnDog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\obj\Debug\net7.0\PolyCatnDog.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\obj\Debug\net7.0\PolyCatnDog.AssemblyInfo.cs
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\obj\Debug\net7.0\PolyCatnDog.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\obj\Debug\net7.0\PolyCatnDog.dll
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\obj\Debug\net7.0\refint\PolyCatnDog.dll
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\obj\Debug\net7.0\PolyCatnDog.pdb
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\obj\Debug\net7.0\PolyCatnDog.genruntimeconfig.cache
+C:\Users\zimul\Documents\cSharp\PolyCatnDog\obj\Debug\net7.0\ref\PolyCatnDog.dll

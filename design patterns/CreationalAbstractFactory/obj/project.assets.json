@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zimul\\Documents\\cSharp\\CreationalAbstractFactory\\CreationalAbstractFactory.csproj",
+      "projectUniqueName": "C:\\Users\\zimul\\Documents\\cSharp\\design patterns\\CreationalAbstractFactory\\CreationalAbstractFactory.csproj",
       "projectName": "CreationalAbstractFactory",
-      "projectPath": "C:\\Users\\zimul\\Documents\\cSharp\\CreationalAbstractFactory\\CreationalAbstractFactory.csproj",
+      "projectPath": "C:\\Users\\zimul\\Documents\\cSharp\\design patterns\\CreationalAbstractFactory\\CreationalAbstractFactory.csproj",
       "packagesPath": "C:\\Users\\zimul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zimul\\Documents\\cSharp\\CreationalAbstractFactory\\obj\\",
+      "outputPath": "C:\\Users\\zimul\\Documents\\cSharp\\design patterns\\CreationalAbstractFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zimul\\AppData\\Roaming\\NuGet\\NuGet.Config",

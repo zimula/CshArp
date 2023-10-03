@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zimul\\Documents\\cSharp\\BehaviouralTemplateMethod\\BehaviouralTemplateMethod.csproj": {}
+    "C:\\Users\\zimul\\Documents\\cSharp\\design patterns\\BehaviouralTemplateMethod\\BehaviouralTemplateMethod.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zimul\\Documents\\cSharp\\BehaviouralTemplateMethod\\BehaviouralTemplateMethod.csproj": {
+    "C:\\Users\\zimul\\Documents\\cSharp\\design patterns\\BehaviouralTemplateMethod\\BehaviouralTemplateMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zimul\\Documents\\cSharp\\BehaviouralTemplateMethod\\BehaviouralTemplateMethod.csproj",
+        "projectUniqueName": "C:\\Users\\zimul\\Documents\\cSharp\\design patterns\\BehaviouralTemplateMethod\\BehaviouralTemplateMethod.csproj",
         "projectName": "BehaviouralTemplateMethod",
-        "projectPath": "C:\\Users\\zimul\\Documents\\cSharp\\BehaviouralTemplateMethod\\BehaviouralTemplateMethod.csproj",
+        "projectPath": "C:\\Users\\zimul\\Documents\\cSharp\\design patterns\\BehaviouralTemplateMethod\\BehaviouralTemplateMethod.csproj",
         "packagesPath": "C:\\Users\\zimul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zimul\\Documents\\cSharp\\BehaviouralTemplateMethod\\obj\\",
+        "outputPath": "C:\\Users\\zimul\\Documents\\cSharp\\design patterns\\BehaviouralTemplateMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zimul\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,7 +10,7 @@ namespace Polymorphism
     class Animal
     {
         public string? type;
-        public void animalSound()
+        public virtual void animalSound()
         {
             Console.WriteLine("The animal makes a sound.");
         }

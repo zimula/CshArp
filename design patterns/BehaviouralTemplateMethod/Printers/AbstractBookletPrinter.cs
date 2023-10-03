@@ -8,6 +8,7 @@ namespace BehaviouralTemplateMethod.Printers
 {
     internal abstract class AbstractBookletPrinter
     {
+        //the protected keyword helps. 
         protected internal abstract int PageCount { get; }
         protected internal abstract void PrintFrontCover();
         protected internal abstract void PrintTableOfContents();

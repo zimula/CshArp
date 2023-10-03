@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Polymorphism\\Polymorphism.csproj": {}
+    "C:\\Users\\zimul\\Documents\\cSharp\\Polymorphism\\Polymorphism.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Polymorphism\\Polymorphism.csproj": {
+    "C:\\Users\\zimul\\Documents\\cSharp\\Polymorphism\\Polymorphism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Polymorphism\\Polymorphism.csproj",
+        "projectUniqueName": "C:\\Users\\zimul\\Documents\\cSharp\\Polymorphism\\Polymorphism.csproj",
         "projectName": "Polymorphism",
-        "projectPath": "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Polymorphism\\Polymorphism.csproj",
+        "projectPath": "C:\\Users\\zimul\\Documents\\cSharp\\Polymorphism\\Polymorphism.csproj",
         "packagesPath": "C:\\Users\\zimul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Polymorphism\\obj\\",
+        "outputPath": "C:\\Users\\zimul\\Documents\\cSharp\\Polymorphism\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zimul\\AppData\\Roaming\\NuGet\\NuGet.Config",
