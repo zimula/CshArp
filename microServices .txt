@@ -1,0 +1,12 @@
+MICRO SERVICES: 
+1. Diagram types: 
+	- structural: 
+		i. component diagram: depicts an executable solution (collection of packages/components)
+		ii. deployment diagram: focuses on infrastructure and hosting where the system reside.
+			- namespaces as packages. 
+	- behavioural
+tips:  
+	- component > package
+	- merge usually indicates a single package
+	- component: a complete solution made up of packages. Standalone piece of software. 
+		

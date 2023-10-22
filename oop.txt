@@ -143,7 +143,7 @@ ABSTRACTION: process of hiding some details from the user.
 						Console.WriteLine("makes sound");
 					}
 				}
-				- OVERRIDE: is use to access the abstract method. 
+				- OVERRIDE: is used to access the abstract method. 
 
 INTERFACES: an abstract class with only abstract methods and properties (empty bodies).
 	- no need for override (empty bodies)

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Abstraction\\Abstraction.csproj",
+      "projectUniqueName": "C:\\Users\\zimul\\Documents\\cSharp\\Abstraction\\Abstraction.csproj",
       "projectName": "Abstraction",
-      "projectPath": "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Abstraction\\Abstraction.csproj",
+      "projectPath": "C:\\Users\\zimul\\Documents\\cSharp\\Abstraction\\Abstraction.csproj",
       "packagesPath": "C:\\Users\\zimul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zimul\\Documents\\cSharp\\intro\\Classes&Objects\\Abstraction\\obj\\",
+      "outputPath": "C:\\Users\\zimul\\Documents\\cSharp\\Abstraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zimul\\AppData\\Roaming\\NuGet\\NuGet.Config",
