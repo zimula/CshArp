@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h+U56WfIfVjs1mdxqaji1rPoEvaMg600S1tzjNHEgns=",
+  "Source": "ProcuctMicroService",
+  "BasePath": "_content/ProcuctMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
