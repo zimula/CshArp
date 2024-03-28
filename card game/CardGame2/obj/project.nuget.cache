@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Khi7r4ZAKLhUg20y/LVbD5YFE7bd515oXiquBgrK4oME4z3eVU+xVHoG8vliK2w3brfdq0B+LL1sJaaLdFSKrA==",
+  "dgSpecHash": "Eb6DAt+mV/DrRBaA3VpJWm83oK3JW2WC9LJDpY9ybuYvChe6V15o2vK+mgNEJJCYyii5jgrKEQOjU37Ln4bFSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zimul\\Documents\\c#\\intro\\card game\\CardGame2\\CardGame2.csproj",
+  "projectFilePath": "C:\\Users\\zimul\\Documents\\cSharp\\card game\\CardGame2\\CardGame2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

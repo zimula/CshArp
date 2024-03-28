@@ -12,3 +12,17 @@ C:\Users\zimul\Documents\c#\intro\card game\CardGame2\obj\Debug\net7.0\refint\Ca
 C:\Users\zimul\Documents\c#\intro\card game\CardGame2\obj\Debug\net7.0\CardGame2.pdb
 C:\Users\zimul\Documents\c#\intro\card game\CardGame2\obj\Debug\net7.0\CardGame2.genruntimeconfig.cache
 C:\Users\zimul\Documents\c#\intro\card game\CardGame2\obj\Debug\net7.0\ref\CardGame2.dll
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\bin\Debug\net7.0\CardGame2.exe
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\bin\Debug\net7.0\CardGame2.deps.json
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\bin\Debug\net7.0\CardGame2.runtimeconfig.json
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\bin\Debug\net7.0\CardGame2.dll
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\bin\Debug\net7.0\CardGame2.pdb
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\obj\Debug\net7.0\CardGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\obj\Debug\net7.0\CardGame2.AssemblyInfoInputs.cache
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\obj\Debug\net7.0\CardGame2.AssemblyInfo.cs
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\obj\Debug\net7.0\CardGame2.csproj.CoreCompileInputs.cache
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\obj\Debug\net7.0\CardGame2.dll
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\obj\Debug\net7.0\refint\CardGame2.dll
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\obj\Debug\net7.0\CardGame2.pdb
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\obj\Debug\net7.0\CardGame2.genruntimeconfig.cache
+C:\Users\zimul\Documents\cSharp\card game\CardGame2\obj\Debug\net7.0\ref\CardGame2.dll
